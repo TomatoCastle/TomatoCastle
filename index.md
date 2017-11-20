@@ -16,6 +16,6 @@
 
 ### GitHub
 
-[TomatoCastle] (https://github.com/TomatoCastle)
+[TomatoCastle](https://github.com/TomatoCastle)
 
 全然草を生やしていませんが、これから生やしていきたいと思います。
